@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "_id":"dress1",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 120000
+        },
+        {
+            "_id":"dress2",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["XS", "M", "L"],
+            "price": 600000
+        },
+        {
+            "_id":"dress3",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["XXL", "L"],
+            "price": 10000
+        },
+        {
+            "id":"dress4",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["M", "L"],
+            "price": 449000
+        },
+        {
+            "_id":"dress5",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["X", "M", "XL"],
+            "price": 100000
+        },
+        {
+            "_id":"dress6",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["X", "M", "L"],
+            "price": 330000
+        },
+        {
+            "_id":"dress7",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["X", "M", "L"],
+            "price": 500000
+        },
+        {
+            "_id":"dress8",
+            "title":"ÁO PHÔNG NỮ OVERSIZED DA CÁ",
+            "image": "/images/1.webp",
+            "description": "Mã sản phẩm: 1.2.02.1.06.010.121.01",
+            "availableSizes": ["XS", "M", "XL"],
+            "price": 1000000
+        }
+    ]
+}
